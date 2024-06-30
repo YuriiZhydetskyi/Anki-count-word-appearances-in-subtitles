@@ -1,0 +1,8 @@
+{
+    "name": "Word Appearance Counter",
+    "description": "Count word appearances in subtitle files for Anki notes",
+    "author": "Yurii-Stefan Zhydetskyi",
+    "version": "1.0.0",
+    "conflicts": [],
+    "max_point_version": 40
+}
